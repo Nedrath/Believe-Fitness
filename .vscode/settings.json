@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "files.exclude": {
+   ".cache": true,
+    "node_modules": true,
+    "dist": false
+    // "eslintrc.json":true,
+    // ".prettierrc":true,
+    // "package-lock.json":true
+  }
+}
